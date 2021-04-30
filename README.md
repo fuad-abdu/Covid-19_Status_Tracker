@@ -1,6 +1,6 @@
 # Covid-19 Status Tracker
 
-[App Link : ](https://github.com/facebook/create-react-app).
+[App Link : ](https://covid-19-tracker-cd9d3.web.app/)https://covid-19-tracker-cd9d3.web.app/
 
 ## Getting Started with Create React App
 
